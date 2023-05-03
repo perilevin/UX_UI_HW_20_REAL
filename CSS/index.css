@@ -2,3 +2,15 @@ body{
 background-color: black;
 }
 
+.secondary{
+    display: flex;
+    justify-content: center;
+}
+
+.secondary .card{
+    width: 25%;
+}
+
+.ogsite{
+    display: flex;
+}
