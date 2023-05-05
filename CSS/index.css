@@ -7,7 +7,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 .link{
     color: rgb(218, 173, 119);
     font-weight: 600;
-   padding-right: 22cm;
+   padding-right: 21cm;
     font-family:Georgia, 'Times New Roman', Times, serif;
     letter-spacing: .1cm;
     font-size: 2cm; 
@@ -66,4 +66,8 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 
 .iteration{
     padding-left: 1cm;
+}
+
+.description{
+    justify-content: center;
 }
